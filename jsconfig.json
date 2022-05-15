@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@localization": ["utils/localization"],
+        "@constants": ["utils/constants"],
+        "@helpers/*": ["utils/helpers/*"],
+      }
+    }
+  }
+  
