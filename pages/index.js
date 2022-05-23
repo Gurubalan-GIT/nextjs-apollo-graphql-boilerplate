@@ -1,9 +1,9 @@
-import styles from '../styles/Home.module.scss'
+import classes from "@styles/Home.module.scss";
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-      Hey
+    <div className={classes.container}>
+      Boilerplate success, start your project!
     </div>
-  )
+  );
 }
